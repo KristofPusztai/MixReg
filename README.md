@@ -8,7 +8,7 @@ https://arxiv.org/abs/2010.10814
     # Use exactly the same as PPO2
     model = MIXREG(ImpalaCnn, env, verbose=0, n_steps = 2048, nminibatches=8)
 # Results from use:
-Performance of Impala CNN compared to Nature CNN feature extraction in base PPO2 model:
+Performance of Impala CNN compared to Nature CNN feature extraction in base PPO2 model using FruitBot Environment:
 
 ![alt text](https://github.com/KristofPusztai/CS-W182-Final-Project/blob/master/fruitbot-impala_vs_nature.png?raw=true)
 
