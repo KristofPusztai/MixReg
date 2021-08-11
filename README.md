@@ -9,4 +9,5 @@ https://arxiv.org/abs/2010.10814
     model = MIXREG(ImpalaCnn, env, verbose=0, n_steps = 2048, nminibatches=8)
 # Results from use:
 ![alt text](https://github.com/KristofPusztai/CS-W182-Final-Project/blob/master/Test_Reward.png?raw=true)
-https://github.com/KristofPusztai/CS-W182-Final-Project
+
+Source: https://github.com/KristofPusztai/CS-W182-Final-Project
