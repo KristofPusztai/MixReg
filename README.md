@@ -1,6 +1,8 @@
 # MixReg
 Stable-Baselines Implementation of MixReg regularization technique for PPO2 (uses impala CNN as feature extractor as specified in paper)
 https://arxiv.org/abs/2010.10814
+
+Note: Dependency on stable-baselines(2.10.1 at time of writing) python library, https://pypi.org/project/stable-baselines/
 # Use:
     from MIXREG_ImpalaCnn import ImpalaCnn
     from mixreg import MIXREG
