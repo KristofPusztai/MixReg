@@ -18,6 +18,6 @@ implementation of MixReg outperforms base PPO2 in terms of generalization abilit
 
 ![alt text](https://github.com/KristofPusztai/CS-W182-Final-Project/blob/master/Test_Reward.png?raw=true)
 
-
+![alt text](https://github.com/KristofPusztai/CS-W182-Final-Project/blob/master/mixregVppo.png)
 
 Source: https://github.com/KristofPusztai/CS-W182-Final-Project
